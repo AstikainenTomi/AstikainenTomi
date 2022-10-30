@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomi Astikainen (@AstikainenTomi). 
+- 👋 Hi, I’m Tomi Astikainen (@AstikainenTomi). My web3name is w3n:tomi (https://w3n.id/tomi).
 - 👀 I’m interested in helping create cross-chain partnerships for impactful innovations that create long lasting real-world value.
 - 🌱 I’m currently learning how to efficiently and effectively co-create collaborative strategy for decentralized organizations. 
 - 💞️ I’m looking to collaborate on innovative projects that seek initial funding to test solutions built on Cardano and other chains.
